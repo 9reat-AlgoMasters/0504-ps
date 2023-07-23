@@ -1,12 +1,12 @@
-# 0503 Problem Solving
+# 0504 Problem Solving
 - platform : Programmers
 
 ## List
-1. [시소 짝궁](https://school.programmers.co.kr/learn/courses/30/lessons/152996)
-2. [롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)
-3. [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368)
-4. [혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)
-5. [코딩 테스트 공부](https://school.programmers.co.kr/learn/courses/30/lessons/118668)
+1. [실패율](https://school.programmers.co.kr/learn/courses/30/lessons/42889)
+2. [두 큐의 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
+3. [미로 탈출 명령어](https://school.programmers.co.kr/learn/courses/30/lessons/150365)
+4. [마법의 엘리베이터](https://school.programmers.co.kr/learn/courses/30/lessons/148653)
+5. [햄버거 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/133502)
 
 ## Goal
 - 주현 __ / 5
